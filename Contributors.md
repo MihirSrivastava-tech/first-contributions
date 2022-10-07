@@ -70,7 +70,6 @@
 - [Vita Tran](https://github.com/vita-tran)
 - [Mustafa Khan] (https://github.com/MustafaKhan026)
 - [Shrey Raj](https://github.com/shreyraj2002)
-- [FourSols](https://github.com/FourSols)
 - [Adenle Abiodun](https://github.com/abbeyseto)
 - [Christian Iradukunda](https://github.com/Webamz)
 - [VKSK]
@@ -450,7 +449,6 @@ harsh vijay (https://github.com/harshvijay63)
 - [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 - [Mandeep Patwa](https://github.com/mpatwa98)
 - [Navneet Gupta](https://github.com/Nav21000)
-- [Luka Jurić](https://github.com/ljuricinf)
 - [Krishan Murari](https://github.com/krishan-here)
 - [Shweta Singh](https://github.com/shwetasingh14)
   [Sneha Das](https://github.com/iamsnehadas)
@@ -2940,6 +2938,7 @@ harsh vijay (https://github.com/harshvijay63)
 - [Mariana P Correa](https://github.com/marianapcorrea)
 -[Sidhant kaushal(https://github.com/sidhantkaushal)
 - [Marcelo Dantas](https://github.com/MarceloLuisDantas)
+- [Mihir Srivastava](https://github.com/MihirSrivastava-tech)
 - [Anand Deshmukh](https://github.com/AnAndroidOne)
 
 <!-- prettier-ignore-end -->
